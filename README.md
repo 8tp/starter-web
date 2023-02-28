@@ -10,7 +10,7 @@ Updating for fix after stash
 
 Sample website with plenty of files for demos
 
-##Deployment
+## Deployment
 
 This is a simple web project that can be deployed on any web server
 
@@ -18,6 +18,6 @@ This is a simple web project that can be deployed on any web server
 
 Please fork this repository then issue pull request for review
 
-##Copyright
+## Copyright
 
 2023 Git.Training. All rights reserved
